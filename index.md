@@ -7,7 +7,7 @@ country: USA
 meetup-group: OWASP-Maine
 --- 
 
-## Welcome OWASP Portland Maine
+## Welcome
 Welcome to the OWASP Portland Maine chapter homepage. We're the Maine, United States chapter of OWASP, the Open Web Application Security Project.
 
 ### Goals
