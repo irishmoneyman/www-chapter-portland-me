@@ -11,10 +11,8 @@ tags: maine
 
 ---
 [Register on Meetup.com](https://www.meetup.com/OWASP-Maine/)
-```
-Recent Events
-```
 
+### Recent Events
 
 
 ---
