@@ -59,9 +59,11 @@ Anyone who is involved in SAP ERP environments from both a software development 
 `Hosted By`: NowSecure
 `Topic`: Jump into Mobile AppSec with the OWASP MAS Project
 
-IDEXX Corporate Headquarters - 
-1 Idexx Dr -
+```
+IDEXX Corporate Headquarters
+1 Idexx Dr
 Westbrook, ME
+```
 
 #### Description
 
