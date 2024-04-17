@@ -179,9 +179,11 @@ Portland, ME
 `Hosted By`: OWASP
 `Topic`: Jump into Mobile AppSec with the OWASP MAS Project
 
-IDEXX Corporate Headquarters - 
-1 Idexx Dr -
+```
+IDEXX Corporate Headquarters
+1 Idexx Dr
 Westbrook, ME
+```
 
 **Time:** Doors Open at 6:00PM for registration, food, drinks and networking. Talks begin at 6:30PM.
 
