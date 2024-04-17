@@ -20,8 +20,8 @@ Recent Events
 ---
 
 ### Wednesday March 27, 2023 3:00 PM to 5:00 PM
-`Hosted By`: University of Maine
-`Topic`: Introduction to Application and Software Security
+**Hosted By**: University of Maine
+**Topic**    : Introduction to Application and Software Security
 
 ```
 The University of Maine, DPC 205
@@ -34,8 +34,8 @@ The University of Maine recently hosted an engaging panel discussion titled "Int
 
 ---
 ### Tuesday November 21, 2023 6:00 PM to 8:00 PM
-`Hosted By`: Onapsis
-`Topic`: Cybersecurity of Critical SAP Apps
+**Hosted By**: Onapsis
+**Topic**    : Cybersecurity of Critical SAP Apps
 
 ```
 Rising Tide Brewery
@@ -56,8 +56,8 @@ Anyone who is involved in SAP ERP environments from both a software development 
 ### Thursday, October 26, 2023 `RESCHEDULED`
 ---
 ### Thursday, June 22, 2023 6:00 PM to 8:00 PM 
-`Hosted By`: NowSecure
-`Topic`: Jump into Mobile AppSec with the OWASP MAS Project
+**Hosted By**: NowSecure
+**Topic**    : Jump into Mobile AppSec with the OWASP MAS Project
 
 ```
 IDEXX Corporate Headquarters
@@ -102,8 +102,8 @@ OWASP Advanced Whiteboard Hacking - AKA Hands on Threat Modeling
 
 ---
 ### Thursday, June 10, 2021 6:00 PM to 8:00 PM `REMOTE`
-`Hosted By`: OWASP
-`Topic`: OWASP Maine June 2021 Virtual Meeting
+**Hosted By**: OWASP
+**Topic**    : OWASP Maine June 2021 Virtual Meeting
 
 #### Description
 
@@ -131,8 +131,8 @@ A desire to learn about web application security testing
 
 ---
 ### Thursday, January 23, 2020 6:00 PM to 8:00 PM
-`Hosted By`: Guideline
-`Topic`: SSH & Reverse Engineering
+**Hosted By**: Guideline
+**Topic**    : SSH & Reverse Engineering
 
 ```
 Benkay Japanese Restraunt & Sushi Bar
@@ -155,8 +155,8 @@ This month we have two of our members presenting for the group:
 ---
 ### Thursday, 24 October 2019 6PM
 
-`Hosted By`: Guideline
-`Topic`: SSH & Reverse Engineering
+**Hosted By**: Guideline
+**Topic**    : SSH & Reverse Engineering
 
 ```
 Benkay Japanese Restraunt & Sushi Bar
@@ -178,8 +178,8 @@ Portland, ME
 ---
 ### Thursday, 22 August 2019 6PM
 
-`Hosted By`: OWASP
-`Topic`: Jump into Mobile AppSec with the OWASP MAS Project
+**Hosted By**: OWASP
+**Topic**    : Jump into Mobile AppSec with the OWASP MAS Project
 
 ```
 IDEXX Corporate Headquarters
