@@ -15,15 +15,33 @@ tags: maine
 Recent Events
 ```
 
+
+
+---
+
+### Wednesday March 27, 2023 3:00 PM to 5:00 PM
+`Hosted By`: University of Maine
+`Topic`: Introduction to Application and Software Security
+
+```
+The University of Maine, DPC 205
+8 Beddington Rd,
+Orono, ME 04469
+```
+
+#### Description
+The University of Maine recently hosted an engaging panel discussion titled "Introduction to Application and Software Security." This event convened a diverse panel of experts to delve into the fundamentals of safeguarding applications and software against cyber threats. Held at DPC 205, the discussion covered essential topics such as threat identification, secure software development practices, emerging trends in security, compliance considerations, and practical implementation strategies. Attendees actively participated in interactive discussions and Q&A sessions, gaining valuable insights and foundational knowledge in the vital field of application and software security.
+
 ---
 ### Tuesday November 21, 2023 6:00 PM to 8:00 PM
 `Hosted By`: Onapsis
 `Topic`: Cybersecurity of Critical SAP Apps
 
-Rising Tide Brewery - 
-103 Fox St -
+```
+Rising Tide Brewery
+103 Fox St
 Portland, ME
-
+```
 
 #### Description
 Application and software security are so vitally important in all aspects of the business especially with every company becoming a software company as they navigate through digital transformations.
@@ -114,9 +132,11 @@ A desire to learn about web application security testing
 `Hosted By`: Guideline
 `Topic`: SSH & Reverse Engineering
 
-Benkay Japanese Restraunt & Sushi Bar - 
-16 Middle St  -
+```
+Benkay Japanese Restraunt & Sushi Bar
+16 Middle St
 Portland, ME
+```
 
 We're back for the first OWASP meetup of 2020! Once again we'll be hosted by Guideline.
 
@@ -136,9 +156,11 @@ This month we have two of our members presenting for the group:
 `Hosted By`: Guideline
 `Topic`: SSH & Reverse Engineering
 
-Benkay Japanese Restraunt & Sushi Bar - 
-16 Middle St  -
+```
+Benkay Japanese Restraunt & Sushi Bar
+16 Middle St
 Portland, ME
+```
 
 **Time:** Doors Open at 6:00PM for registration, food, drinks and networking. Talks begin at 6:30PM.
 
